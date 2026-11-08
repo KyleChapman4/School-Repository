@@ -8,4 +8,4 @@
  * gain a better understanding of markdown syntax and Semantic HTML
  * Create a single page website using HTML
 #### **Exclusions** 
- Not icnluding visual design at the moment 
+ Not including visual design at the moment 
